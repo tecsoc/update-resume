@@ -1,0 +1,2 @@
+# update-resume
+Notionから取得したデータをGithub Pagesにjsonとしてデプロイします
